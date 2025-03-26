@@ -12,6 +12,7 @@ Collection of ansible tools to allow management through the creation of a few co
 
 stable release coming soon
 
+![gatto_imp](https://github.com/user-attachments/assets/1aeeccb8-b016-48a6-877b-1058404e39fc)
 
 ![gatto](https://github.com/user-attachments/assets/be875ebc-a59a-432f-a02c-f9d5d4ebac8e)
 <a href="http://www.freepik.com">Designed by rawpixel.com / Freepik</a>
